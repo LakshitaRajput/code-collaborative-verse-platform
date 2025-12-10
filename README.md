@@ -7,6 +7,7 @@ Code Collaborative Verse is a real-time collaborative coding platform featuring 
 Multi-user code editing with live cursor tracking
 Powered by Monaco Editor + Socket.io
 Zero-delay code synchronization
+
 🎥 Integrated Video Calls :
 High-quality video communication using WebRTC
 Enables teams to discuss and code simultaneously
@@ -23,10 +24,12 @@ Commit, rollback, and view history directly inside workspace
 Save rooms, user sessions, and collaborative data using MongoDB
 
 🛠 Tech Stack :
+
 Frontend :
 React.js
 Monaco Editor
 WebRTC
+
 Backend :
 Node.js
 Socket.io
