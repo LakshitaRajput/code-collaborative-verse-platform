@@ -1,3 +1,16 @@
+# Code Collaborative Verse Platform
+
+## Contributors
+
+👤 **Lakshita Rajput**  
+Roll No: 2201003213 
+GitHub: @LakshitaRajput  
+
+👤 **Sadaf Noshad**  
+Roll No: 2201003177  
+GitHub: @skhn1288-pixel 
+
+
 #About
 
 Code Collaborative Verse is a real-time collaborative coding platform featuring live code editing, integrated video calls, multi-language syntax highlighting, and Git-based version control. Built with React, Monaco Editor, WebRTC, Node.js, Socket.io, and MongoDB for seamless remote teamwork.
