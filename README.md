@@ -1,4 +1,6 @@
-# Code Collaborative Verse is a real-time collaborative coding platform featuring live code editing, integrated video calls, multi-language syntax highlighting, and Git-based version control. Built with React, Monaco Editor, WebRTC, Node.js, Socket.io, and MongoDB for seamless remote teamwork.
+#About
+
+Code Collaborative Verse is a real-time collaborative coding platform featuring live code editing, integrated video calls, multi-language syntax highlighting, and Git-based version control. Built with React, Monaco Editor, WebRTC, Node.js, Socket.io, and MongoDB for seamless remote teamwork.
 
 📌 Features
 🔥 Real-Time Collaboration :
